@@ -1,6 +1,6 @@
 # (Rocketseat) Curso Starter de NodeJS
 
-API Rest projetada no Curso Starter de NodeJS da [Rocketseat](https://rocketseat.com.br/ "Rocketseat")
+API Rest projetada no Curso Starter de NodeJS da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 
 #### :briefcase: Arquitetura 
 - [Padrão MVC (Model–View–Controller)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "Wikipedia MVC")
