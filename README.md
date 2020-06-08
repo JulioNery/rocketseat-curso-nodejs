@@ -1,4 +1,4 @@
-<h2 align="center">Curso Starter de NodeJS</h2>
+<h1 align="center">Curso Starter de NodeJS</h1>
 
 API Rest projetada no Curso Starter de NodeJS da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 
